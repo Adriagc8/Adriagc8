@@ -5,14 +5,14 @@ Founder & CTO with 6+ years of experience building products and scalable backend
 I specialize in:
 - Backend systems & APIs
 - Data infrastructure & distributed systems
-- AI-driven workflows and automation
+- AI-driven workflows and agent-based automation
 - Building real products in early-stage environments
 
 ---
 
 ## 🚀 How I work
 
-My workflow is highly focused on **speed, iteration, and execution**.
+My workflow is focused on **speed, iteration, and execution**.
 
 I actively use:
 - Cursor (AI-first development)
@@ -20,9 +20,9 @@ I actively use:
 - Rapid prototyping + iteration cycles
 
 This allows me to:
-- Build faster
-- Explore ideas quickly
-- Ship and validate in real environments
+- Move fast from idea → implementation
+- Explore multiple approaches quickly
+- Build and validate real systems in production environments
 
 ---
 
@@ -30,135 +30,130 @@ This allows me to:
 
 Most of the systems I’ve built are part of **private company repositories**, so I cannot share the full source code publicly.
 
-Instead, I document here:
-- What I built
-- The architecture decisions
-- The stack used
-- The problems solved
+Instead, this profile includes:
+- Public experiments and prototypes
+- Infrastructure examples
+- AI and agent-based systems
+- Documentation of real-world systems I’ve built
 
 ---
 
-## 🧠 Selected Projects (Private Work)
+## 🧠 Agent Systems & AI Workflows
+
+### 🔗 Agent Library (Universal Plastic)
+https://github.com/Adriagc8/agent-library-UP
+
+Internal tooling and experimentation around agent-based workflows and automation.
 
 ---
 
-### 🌍 Universal Plastic — Data Infrastructure & AI Platform
+### 🔗 Waste Collection Agent
+https://github.com/Adriagc8/agent-stock-wastecollections
 
-Built a full data infrastructure platform (ONDAs Data Space) to collect and process environmental data.
-
-**What I built:**
-- APIs and data pipelines ingesting multi-source data (mobile, IoT, lab, geospatial)
-- Event-driven backend systems using AWS (Lambda, SQS, CloudFormation)
-- AI pipelines for image classification and data validation
-- Blockchain-based data traceability system
-
-**Stack:**
-- AI integrations
-- Node.js
-- Python (yolo)
-- Docker
-- Postgresql
-- mongodb
-- AWS
-- React
-- Solidity
-
-**Architecture highlights:**
-- Distributed data ingestion
-- Federated data architecture (IDS / EDC principles)
-- Event-driven processing
-
-**Goal:**
-Transform raw environmental data into structured, verifiable datasets usable by governments and enterprises.
+Agent designed to process and structure environmental data from waste collection workflows.
 
 ---
 
-### 🚗 CarOpticom — AI Agent for Sales Automation
+### 🔗 Plastic X Agent
+https://github.com/Adriagc8/agent_plastic_x
 
-Took ownership of a fragmented system (12 repos) and rebuilt it into a scalable architecture.
-
-**What I built:**
-- AI-powered agent for automating car sales workflows
-- Backend systems integrating APIs, scheduling, and decision-making
-- Full-stack features (mobile, web, backend)
-
-**Stack:**
-- AI integrations
-- Node.js
-- Python
-- Docker
-- Postgresql
-- mongodb
-- AWS
-- Redis
-- Angular
-
-**Impact:**
-- Improved system reliability and performance
-- Enabled automation of manual workflows
+Exploration of agent-based systems for environmental data analysis and automation.
 
 ---
 
-### 📱 Moments — Social Platform (800k users)
+## 🌍 Blue Resilience OS (Data & AI Infrastructure)
 
-Co-founded and built backend systems from scratch.
+### 🔗 Core System
+https://github.com/Adriagc8/blue-resilience-os
 
-**What I built:**
-- Scalable APIs and data systems (Node.js, PostgreSQL, Redis)
-- Microservices (including Rust for performance-critical components)
-- Testing, monitoring, and alerting systems
-
-**Stack:**
-- Node.js
-- Python
-- Docker
-- Postgresql
-- AWS
-- Redis
-- Rust
-
-**Scale:**
-- 800,000+ users
-- 150,000+ daily active users
-
-**Challenges:**
-- High concurrency
-- Real-time data flows
-- Performance optimization
+Distributed infrastructure platform for environmental data collection, processing, and analysis.
 
 ---
 
-### 🧩 Klasea — MVP Platform (0→1)
+### 🔗 API Layer
+https://github.com/Adriagc8/blue-resilience-api
 
-Built product from scratch: business model + backend + infra.
-
-**What I built:**
-- APIs and database (Node.js, MongoDB)
-- Microservices with Docker
-- AWS infrastructure
-
-**Stack:**
-- Node.js
-- Python
-- Docker
-- Postgresql
-- mongodb
-- AWS
-- Redis
-
-**Focus:**
-Rapid iteration and product validation.
+Backend APIs for data access, orchestration, and system integration.
 
 ---
 
-### 🏥 Diprotech — IoT Smart City System
+### 🔗 Authentication
+https://github.com/Adriagc8/blue-resilience-auth
 
-Worked on backend for real-time data systems.
+Authentication and identity layer for distributed systems.
 
-**What I built:**
-- High-performance APIs for IoT data ingestion
-- Backend optimizations (CPU + DB)
-- Secure system architecture
+---
+
+### 🔗 Data Ingestion
+https://github.com/Adriagc8/blue-resilience-ingest
+
+Pipelines for ingesting multi-source data (mobile, IoT, environmental datasets).
+
+---
+
+## ⚙️ Infrastructure & Cloud
+
+### 🔗 AWS CloudFormation Practices
+https://github.com/Adriagc8/aww-cloudformation-practises
+
+Examples of infrastructure-as-code using AWS CloudFormation:
+- Event-driven architectures
+- Scalable backend systems
+- Cloud resource orchestration
+
+---
+
+## 🧪 Data Science & AI (Master Projects)
+
+### 🔗 Marine Microplastics Data Visualization
+https://github.com/Adriagc8/visualitzacio-de-dades-Microplastics-Marins
+
+Data visualization project focused on marine microplastics.
+
+---
+
+### 🔗 Data Visualization (UOC)
+https://github.com/adriagonzalez-uoc/PAC-2-Visualitzacio-Dades
+
+Exploration of data analysis and visualization techniques.
+
+---
+
+### 🔗 Deep Learning — RNN
+https://github.com/Adriagc8/deeplearning-rnn
+
+Recurrent neural networks for sequence modeling.
+
+---
+
+### 🔗 Deep Learning — CNN
+https://github.com/Adriagc8/deeplearning-cnn
+
+Convolutional neural networks for image-based tasks.
+
+---
+
+## 🧠 Selected Private Work (Summary)
+
+### 🌍 Universal Plastic
+- Built data infrastructure platform (ONDAs Data Space)
+- Designed APIs and event-driven systems (AWS Lambda, SQS)
+- Developed AI pipelines for image classification
+- Integrated blockchain-based traceability
+
+---
+
+### 🚗 CarOpticom
+- Built AI agent for sales workflow automation
+- Refactored 12-repo system into scalable architecture
+- Developed backend + full-stack features
+
+---
+
+### 📱 Moments
+- Backend systems for 800k+ users (150k DAU)
+- Microservices + performance optimization (Rust exposure)
+- Real-time systems + scaling challenges
 
 ---
 
@@ -166,11 +161,13 @@ Worked on backend for real-time data systems.
 
 - Building systems that actually run in production
 - Combining backend infrastructure with AI
-- Designing for reliability in non-deterministic systems
-- Moving fast and iterating on real products
+- Designing reliable workflows in non-deterministic systems
+- Shipping fast and iterating on real products
 
 ---
 
 ## 📬 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/adria-gonzalez-copado/]
+- LinkedIn: [www.linkedin.com/in/adria-gonzalez-copado
+
+]
